@@ -1,4 +1,4 @@
-[![barisomerdongel](https://inoception.com/img/team/member3.jpg)][1]
+[![barisomerdongel](https://mirdijital.com/img/person/pp.jpg)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=barisdongel&color=FAC151)][1]
 [![PHP](https://img.shields.io/badge/php-Fan-FAC151.svg?logo=php&logoWidth=20)](https://github.com/barisdongel)
