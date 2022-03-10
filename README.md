@@ -2,8 +2,6 @@
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=barisdongel&color=FAC151)][1]
 [![PHP](https://img.shields.io/badge/php-Fan-FAC151.svg?logo=php&logoWidth=20)](https://github.com/barisdongel)
-[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
-
 Hey 👋🏻,
 
 I am Co-Founder of Inoception Agent and Web Developper from Turkey
@@ -17,7 +15,6 @@ You can see what I am currently up to on [mirdijital.com][1].
 - Web: [mirdijital.com][1]
 - LinkedIn: [linkedin.com/in/mirdijital][2]
 - Twitter: [twitter.com/BarDongel][3]
-- Blog: [sarikitaplik.ml][4]
 
 ## &#x1f4c8; My GitHub Stats
 
