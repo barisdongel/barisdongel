@@ -8,7 +8,7 @@ I am Co-Founder of Inoception Agent and Web Developper from Turkey
 🇹🇷. I am interested in, write about and develop (open source) software solutions
 for and with PHP.
 
-You can see what I am currently up to on [inoception.com][1].
+You can see what I am currently up to on [Inoception][4].
 
 ## 📬 Get in touch
 
@@ -21,4 +21,5 @@ You can see what I am currently up to on [inoception.com][1].
   https://mirdijital.com
 [2]: https://www.linkedin.com/in/mirdijital/
 [3]: https://twitter.com/BarDongel
+[4]: https://inoception.com
 
