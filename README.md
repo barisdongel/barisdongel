@@ -18,7 +18,7 @@ You can see what I am currently up to on [Inoception][4].
 
 
 [1]:
-  https://mirdijital.com
+  https://barisdongel.github.io
 [2]: https://www.linkedin.com/in/mirdijital/
 [3]: https://twitter.com/BarDongel
 [4]: https://inoception.com
