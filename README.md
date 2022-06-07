@@ -12,7 +12,7 @@ You can see what I am currently up to on [Inoception][4].
 
 ## 📬 Get in touch
 
-- Web: [mirdijital.com][1]
+- Web: [barisdongel][1]
 - LinkedIn: [linkedin.com/in/mirdijital][2]
 - Twitter: [twitter.com/BarDongel][3]
 
