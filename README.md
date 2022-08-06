@@ -5,7 +5,7 @@
 </br>
 Hey 👋🏻,
 
-I am Co-Founder of Inoception Agent and Web Developper from Turkey
+I am Co-Founder of Inoception Software and Web Developper from Turkey
 🇹🇷. I am interested in, write about and develop (open source) software solutions
 for and with PHP.
 
