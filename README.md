@@ -17,6 +17,13 @@ You can see what I am currently up to on [Inoception][4].
 - Twitter: [twitter.com/BarDongel][3]
 
 
+## 📝Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisdongel&show_icons=true&locale=en&layout=compact" alt="barisdongel" /></p>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=barisdongel&show_icons=true&locale=en" alt="barisdongel" /></p>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=barisdongel&" alt="barisdongel" /></p>
+
 [1]:
   https://barisdongel.github.io
 [2]: https://www.linkedin.com/in/mirdijital/
