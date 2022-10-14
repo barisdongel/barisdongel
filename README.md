@@ -2,6 +2,7 @@
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=barisdongel&color=FAC151)][1]
 [![PHP](https://img.shields.io/badge/php-Fan-FAC151.svg?logo=php&logoWidth=20)](https://github.com/barisdongel)
+[![JS](https://img.shields.io/badge/JS-FAN-brightgreen)]
 </br>
 Hey 👋🏻,
 
