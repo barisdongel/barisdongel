@@ -1,12 +1,14 @@
 [![barisomerdongel](https://avatars.githubusercontent.com/u/29428301?v=4)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=barisdongel&color=FAC151)][1]
-[![PHP](https://img.shields.io/badge/php-Fan-FAC151.svg?logo=php&logoWidth=20)](https://github.com/barisdongel)
-[![JS](https://img.shields.io/badge/JS-FAN-brightgreen)]
+[![GitHub Views](https://komarev.com/ghpvc/?username=barisdongel&color=red)][1]
+[![PHP](https://img.shields.io/badge/php-Dev-7A86B8.svg?logo=php&logoWidth=20)](https://github.com/barisdongel)
+[![JS](https://img.shields.io/badge/js-Fan-EFD81D?style=flat&logo=javascript&logoWidth=20)][1]
+[![ASP](https://img.shields.io/badge/asp-Soso-FFFFFF?style=flat&logo=dotnet&logoWidth=20)][1]
+[![WORDPRESS](https://img.shields.io/badge/wp-Expert-0073AA?style=flat&logo=wordpress&logoWidth=20)][1]
 </br>
 Hey 👋🏻,
 
-I am Co-Founder of Inoception Software and Web Developper from Turkey
+I am Founder of Inoception Software and Web Developper from Turkey
 🇹🇷. I am interested in, write about and develop (open source) software solutions
 for and with Javascript, PHP or ASP.net.
 
